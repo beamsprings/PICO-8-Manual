@@ -8,14 +8,14 @@ This is a very crude Git page, I know, but its sole intent is to provide me a wa
 
 To-do:
 
-Make a printer-compatible coloured version with black text and proper colouring.
+* Make a printer-compatible coloured version with black text and proper colouring.
 
-Fix some spacing issues.
+* Fix some spacing issues.
 
-Affix the actual cover to the document
+* Affix the actual cover to the document
 
-Make a manual for v0.2.0i (either when the official text file is released or when I can write in the changes)
+* Make a manual for v0.2.0i (either when the official text file is released or when I can write in the changes)
 
-Table of contents for digital version
+* Table of contents for digital version
 
-Clear up whitespace for printer version
+* Clear up whitespace for printer version
